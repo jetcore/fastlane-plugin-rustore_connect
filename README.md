@@ -5,7 +5,7 @@
 ## Getting Started
 This project is a [_fastlane_](https://github.com/fastlane/fastlane) plugin. To get started with `fastlane-plugin-rustore_connect`, add it to your project by running:
 ```bash
-fastlane add_plugin huawei_appgallery_connect
+fastlane add_plugin rustore_connect
 ```
 
 ## About Fastlane Rustore Connect Plugin
