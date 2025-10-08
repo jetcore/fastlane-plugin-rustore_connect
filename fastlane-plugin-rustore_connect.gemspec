@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'mmatsera@gmail.com'
 
   spec.summary       = 'Fastlane plugin for publishing Android applications to RuStore.'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-rustore_connect"
+  spec.homepage      = "https://github.com/jetcore/fastlane-plugin-rustore_connect"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
